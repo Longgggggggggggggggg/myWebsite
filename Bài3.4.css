@@ -1,0 +1,42 @@
+.thang{
+    display: flex;
+    justify-content: space-evenly;
+}
+.khung{
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    border-left: 1px solid #DEE2E7;
+    border-right: 1px solid #DEE2E7;
+    border-bottom:1px solid #DEE2E7 ;
+    border: 1px solid #DEE2E7;
+    border-radius: 5px;
+}
+.anh{
+    width: 100px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.chu{
+    text-align: left;
+    color: rgb(154, 154, 154);
+}
+.gia{
+    font-size: 20px;
+    text-align: left;
+}
+.khung1{
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 2px solid #949494;
+    border-radius: 5px;
+    border-top: 1px solid #c5c5c5;
+    border-left: 1px solid #c5c5c5;
+    border-right: 1px solid #c5c5c5;
+    gap: 10px;
+}

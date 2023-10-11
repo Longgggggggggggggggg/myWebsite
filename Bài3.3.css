@@ -1,0 +1,36 @@
+.khung{
+    width: 220px;
+    height: 310px;
+    display: flex;
+    align-items: ceter;
+    flex-direction: column;
+    border-left: 1px solid #DEE2E7;
+    border-right: 1px solid #DEE2E7;
+    border-bottom:1px solid #DEE2E7 ;
+    gap:10px;
+}
+.anh{
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+.gia{
+    font-size: 20px;
+    text-align: left;
+}
+.chu{
+    color: rgb(148, 144, 138);
+    text-align: left;
+    font-weight: bold;
+    font-size:15px;
+}
+.thang{
+    display: flex;
+    width: 1180px;
+    height: 400px;
+    justify-content: center;
+    border-radius: 6px;
+    border: 1px solid #DEE2E7 ;
+}
